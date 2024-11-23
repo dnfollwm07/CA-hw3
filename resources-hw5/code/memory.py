@@ -36,4 +36,8 @@ class Memory:
     '''
 
     def determine_miss_penalty(self, address):
-        pass
+        if self.is_row_hit(address):
+            return self.rowhitlatency
+        else:
+            self.set_open_row(self.find_row_number(address))
+            return self.rowmisslatency
