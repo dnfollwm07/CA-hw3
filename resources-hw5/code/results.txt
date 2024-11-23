@@ -1,0 +1,600 @@
+Trace: 462.libquantum.gz, Associativity: 1, Block Size: 128
+CPI_stall: 124
+miss_rate: 0.748
+AMAT: 128.9
+=====================================
+Trace: 462.libquantum.gz, Associativity: 1, Block Size: 256
+CPI_stall: 99
+miss_rate: 0.592
+AMAT: 103.1
+=====================================
+Trace: 462.libquantum.gz, Associativity: 1, Block Size: 512
+CPI_stall: 82
+miss_rate: 0.475
+AMAT: 86.3
+=====================================
+Trace: 462.libquantum.gz, Associativity: 1, Block Size: 2048
+CPI_stall: 74
+miss_rate: 0.365
+AMAT: 78.0
+=====================================
+Trace: 462.libquantum.gz, Associativity: 1, Block Size: 4096
+CPI_stall: 72
+miss_rate: 0.359
+AMAT: 76.8
+=====================================
+Trace: 462.libquantum.gz, Associativity: 1, Block Size: 16384
+CPI_stall: 85
+miss_rate: 0.42
+AMAT: 89.0
+=====================================
+Trace: 462.libquantum.gz, Associativity: 4, Block Size: 128
+CPI_stall: 124
+miss_rate: 0.749
+AMAT: 128.8
+=====================================
+Trace: 462.libquantum.gz, Associativity: 4, Block Size: 256
+CPI_stall: 96
+miss_rate: 0.581
+AMAT: 100.39999999999999
+=====================================
+Trace: 462.libquantum.gz, Associativity: 4, Block Size: 512
+CPI_stall: 80
+miss_rate: 0.47
+AMAT: 84.89999999999999
+=====================================
+Trace: 462.libquantum.gz, Associativity: 4, Block Size: 2048
+CPI_stall: 67
+miss_rate: 0.333
+AMAT: 71.60000000000001
+=====================================
+Trace: 462.libquantum.gz, Associativity: 4, Block Size: 4096
+CPI_stall: 64
+miss_rate: 0.317
+AMAT: 68.4
+=====================================
+Trace: 462.libquantum.gz, Associativity: 4, Block Size: 16384
+CPI_stall: 
+miss_rate: 
+AMAT: 
+=====================================
+Trace: 462.libquantum.gz, Associativity: 8, Block Size: 128
+CPI_stall: 124
+miss_rate: 0.747
+AMAT: 128.5
+=====================================
+Trace: 462.libquantum.gz, Associativity: 8, Block Size: 256
+CPI_stall: 95
+miss_rate: 0.578
+AMAT: 99.9
+=====================================
+Trace: 462.libquantum.gz, Associativity: 8, Block Size: 512
+CPI_stall: 78
+miss_rate: 0.459
+AMAT: 82.9
+=====================================
+Trace: 462.libquantum.gz, Associativity: 8, Block Size: 2048
+CPI_stall: 67
+miss_rate: 0.33
+AMAT: 71.0
+=====================================
+Trace: 462.libquantum.gz, Associativity: 8, Block Size: 4096
+CPI_stall: 
+miss_rate: 
+AMAT: 
+=====================================
+Trace: 462.libquantum.gz, Associativity: 8, Block Size: 16384
+CPI_stall: 
+miss_rate: 
+AMAT: 
+=====================================
+Trace: 462.libquantum.gz, Associativity: 16, Block Size: 128
+CPI_stall: 124
+miss_rate: 0.746
+AMAT: 128.4
+=====================================
+Trace: 462.libquantum.gz, Associativity: 16, Block Size: 256
+CPI_stall: 95
+miss_rate: 0.577
+AMAT: 99.6
+=====================================
+Trace: 462.libquantum.gz, Associativity: 16, Block Size: 512
+CPI_stall: 78
+miss_rate: 0.458
+AMAT: 82.60000000000001
+=====================================
+Trace: 462.libquantum.gz, Associativity: 16, Block Size: 2048
+CPI_stall: 
+miss_rate: 
+AMAT: 
+=====================================
+Trace: 462.libquantum.gz, Associativity: 16, Block Size: 4096
+CPI_stall: 
+miss_rate: 
+AMAT: 
+=====================================
+Trace: 462.libquantum.gz, Associativity: 16, Block Size: 16384
+CPI_stall: 
+miss_rate: 
+AMAT: 
+=====================================
+Trace: 462.libquantum.gz, Associativity: 32, Block Size: 128
+CPI_stall: 124
+miss_rate: 0.746
+AMAT: 128.3
+=====================================
+Trace: 462.libquantum.gz, Associativity: 32, Block Size: 256
+CPI_stall: 95
+miss_rate: 0.575
+AMAT: 99.3
+=====================================
+Trace: 462.libquantum.gz, Associativity: 32, Block Size: 512
+CPI_stall: 78
+miss_rate: 0.458
+AMAT: 82.50000000000001
+=====================================
+Trace: 462.libquantum.gz, Associativity: 32, Block Size: 2048
+CPI_stall: 
+miss_rate: 
+AMAT: 
+=====================================
+Trace: 462.libquantum.gz, Associativity: 32, Block Size: 4096
+CPI_stall: 
+miss_rate: 
+AMAT: 
+=====================================
+Trace: 462.libquantum.gz, Associativity: 32, Block Size: 16384
+CPI_stall: 
+miss_rate: 
+AMAT: 
+=====================================
+Trace: 464.h264ref.gz, Associativity: 1, Block Size: 128
+CPI_stall: 124
+miss_rate: 0.748
+AMAT: 128.9
+=====================================
+Trace: 464.h264ref.gz, Associativity: 1, Block Size: 256
+CPI_stall: 99
+miss_rate: 0.592
+AMAT: 103.1
+=====================================
+Trace: 464.h264ref.gz, Associativity: 1, Block Size: 512
+CPI_stall: 82
+miss_rate: 0.475
+AMAT: 86.3
+=====================================
+Trace: 464.h264ref.gz, Associativity: 1, Block Size: 2048
+CPI_stall: 74
+miss_rate: 0.365
+AMAT: 78.0
+=====================================
+Trace: 464.h264ref.gz, Associativity: 1, Block Size: 4096
+CPI_stall: 72
+miss_rate: 0.359
+AMAT: 76.8
+=====================================
+Trace: 464.h264ref.gz, Associativity: 1, Block Size: 16384
+CPI_stall: 85
+miss_rate: 0.42
+AMAT: 89.0
+=====================================
+Trace: 464.h264ref.gz, Associativity: 4, Block Size: 128
+CPI_stall: 124
+miss_rate: 0.749
+AMAT: 128.8
+=====================================
+Trace: 464.h264ref.gz, Associativity: 4, Block Size: 256
+CPI_stall: 96
+miss_rate: 0.581
+AMAT: 100.39999999999999
+=====================================
+Trace: 464.h264ref.gz, Associativity: 4, Block Size: 512
+CPI_stall: 80
+miss_rate: 0.47
+AMAT: 84.89999999999999
+=====================================
+Trace: 464.h264ref.gz, Associativity: 4, Block Size: 2048
+CPI_stall: 67
+miss_rate: 0.333
+AMAT: 71.60000000000001
+=====================================
+Trace: 464.h264ref.gz, Associativity: 4, Block Size: 4096
+CPI_stall: 64
+miss_rate: 0.317
+AMAT: 68.4
+=====================================
+Trace: 464.h264ref.gz, Associativity: 4, Block Size: 16384
+CPI_stall: 
+miss_rate: 
+AMAT: 
+=====================================
+Trace: 464.h264ref.gz, Associativity: 8, Block Size: 128
+CPI_stall: 124
+miss_rate: 0.747
+AMAT: 128.5
+=====================================
+Trace: 464.h264ref.gz, Associativity: 8, Block Size: 256
+CPI_stall: 95
+miss_rate: 0.578
+AMAT: 99.9
+=====================================
+Trace: 464.h264ref.gz, Associativity: 8, Block Size: 512
+CPI_stall: 78
+miss_rate: 0.459
+AMAT: 82.9
+=====================================
+Trace: 464.h264ref.gz, Associativity: 8, Block Size: 2048
+CPI_stall: 67
+miss_rate: 0.33
+AMAT: 71.0
+=====================================
+Trace: 464.h264ref.gz, Associativity: 8, Block Size: 4096
+CPI_stall: 
+miss_rate: 
+AMAT: 
+=====================================
+Trace: 464.h264ref.gz, Associativity: 8, Block Size: 16384
+CPI_stall: 
+miss_rate: 
+AMAT: 
+=====================================
+Trace: 464.h264ref.gz, Associativity: 16, Block Size: 128
+CPI_stall: 124
+miss_rate: 0.746
+AMAT: 128.4
+=====================================
+Trace: 464.h264ref.gz, Associativity: 16, Block Size: 256
+CPI_stall: 95
+miss_rate: 0.577
+AMAT: 99.6
+=====================================
+Trace: 464.h264ref.gz, Associativity: 16, Block Size: 512
+CPI_stall: 78
+miss_rate: 0.458
+AMAT: 82.60000000000001
+=====================================
+Trace: 464.h264ref.gz, Associativity: 16, Block Size: 2048
+CPI_stall: 
+miss_rate: 
+AMAT: 
+=====================================
+Trace: 464.h264ref.gz, Associativity: 16, Block Size: 4096
+CPI_stall: 
+miss_rate: 
+AMAT: 
+=====================================
+Trace: 464.h264ref.gz, Associativity: 16, Block Size: 16384
+CPI_stall: 
+miss_rate: 
+AMAT: 
+=====================================
+Trace: 464.h264ref.gz, Associativity: 32, Block Size: 128
+CPI_stall: 124
+miss_rate: 0.746
+AMAT: 128.3
+=====================================
+Trace: 464.h264ref.gz, Associativity: 32, Block Size: 256
+CPI_stall: 95
+miss_rate: 0.575
+AMAT: 99.3
+=====================================
+Trace: 464.h264ref.gz, Associativity: 32, Block Size: 512
+CPI_stall: 78
+miss_rate: 0.458
+AMAT: 82.50000000000001
+=====================================
+Trace: 464.h264ref.gz, Associativity: 32, Block Size: 2048
+CPI_stall: 
+miss_rate: 
+AMAT: 
+=====================================
+Trace: 464.h264ref.gz, Associativity: 32, Block Size: 4096
+CPI_stall: 
+miss_rate: 
+AMAT: 
+=====================================
+Trace: 464.h264ref.gz, Associativity: 32, Block Size: 16384
+CPI_stall: 
+miss_rate: 
+AMAT: 
+=====================================
+Trace: 403.gcc.gz, Associativity: 1, Block Size: 128
+CPI_stall: 124
+miss_rate: 0.748
+AMAT: 128.9
+=====================================
+Trace: 403.gcc.gz, Associativity: 1, Block Size: 256
+CPI_stall: 99
+miss_rate: 0.592
+AMAT: 103.1
+=====================================
+Trace: 403.gcc.gz, Associativity: 1, Block Size: 512
+CPI_stall: 82
+miss_rate: 0.475
+AMAT: 86.3
+=====================================
+Trace: 403.gcc.gz, Associativity: 1, Block Size: 2048
+CPI_stall: 74
+miss_rate: 0.365
+AMAT: 78.0
+=====================================
+Trace: 403.gcc.gz, Associativity: 1, Block Size: 4096
+CPI_stall: 72
+miss_rate: 0.359
+AMAT: 76.8
+=====================================
+Trace: 403.gcc.gz, Associativity: 1, Block Size: 16384
+CPI_stall: 85
+miss_rate: 0.42
+AMAT: 89.0
+=====================================
+Trace: 403.gcc.gz, Associativity: 4, Block Size: 128
+CPI_stall: 124
+miss_rate: 0.749
+AMAT: 128.8
+=====================================
+Trace: 403.gcc.gz, Associativity: 4, Block Size: 256
+CPI_stall: 96
+miss_rate: 0.581
+AMAT: 100.39999999999999
+=====================================
+Trace: 403.gcc.gz, Associativity: 4, Block Size: 512
+CPI_stall: 80
+miss_rate: 0.47
+AMAT: 84.89999999999999
+=====================================
+Trace: 403.gcc.gz, Associativity: 4, Block Size: 2048
+CPI_stall: 67
+miss_rate: 0.333
+AMAT: 71.60000000000001
+=====================================
+Trace: 403.gcc.gz, Associativity: 4, Block Size: 4096
+CPI_stall: 64
+miss_rate: 0.317
+AMAT: 68.4
+=====================================
+Trace: 403.gcc.gz, Associativity: 4, Block Size: 16384
+CPI_stall: 
+miss_rate: 
+AMAT: 
+=====================================
+Trace: 403.gcc.gz, Associativity: 8, Block Size: 128
+CPI_stall: 124
+miss_rate: 0.747
+AMAT: 128.5
+=====================================
+Trace: 403.gcc.gz, Associativity: 8, Block Size: 256
+CPI_stall: 95
+miss_rate: 0.578
+AMAT: 99.9
+=====================================
+Trace: 403.gcc.gz, Associativity: 8, Block Size: 512
+CPI_stall: 78
+miss_rate: 0.459
+AMAT: 82.9
+=====================================
+Trace: 403.gcc.gz, Associativity: 8, Block Size: 2048
+CPI_stall: 67
+miss_rate: 0.33
+AMAT: 71.0
+=====================================
+Trace: 403.gcc.gz, Associativity: 8, Block Size: 4096
+CPI_stall: 
+miss_rate: 
+AMAT: 
+=====================================
+Trace: 403.gcc.gz, Associativity: 8, Block Size: 16384
+CPI_stall: 
+miss_rate: 
+AMAT: 
+=====================================
+Trace: 403.gcc.gz, Associativity: 16, Block Size: 128
+CPI_stall: 124
+miss_rate: 0.746
+AMAT: 128.4
+=====================================
+Trace: 403.gcc.gz, Associativity: 16, Block Size: 256
+CPI_stall: 95
+miss_rate: 0.577
+AMAT: 99.6
+=====================================
+Trace: 403.gcc.gz, Associativity: 16, Block Size: 512
+CPI_stall: 78
+miss_rate: 0.458
+AMAT: 82.60000000000001
+=====================================
+Trace: 403.gcc.gz, Associativity: 16, Block Size: 2048
+CPI_stall: 
+miss_rate: 
+AMAT: 
+=====================================
+Trace: 403.gcc.gz, Associativity: 16, Block Size: 4096
+CPI_stall: 
+miss_rate: 
+AMAT: 
+=====================================
+Trace: 403.gcc.gz, Associativity: 16, Block Size: 16384
+CPI_stall: 
+miss_rate: 
+AMAT: 
+=====================================
+Trace: 403.gcc.gz, Associativity: 32, Block Size: 128
+CPI_stall: 124
+miss_rate: 0.746
+AMAT: 128.3
+=====================================
+Trace: 403.gcc.gz, Associativity: 32, Block Size: 256
+CPI_stall: 95
+miss_rate: 0.575
+AMAT: 99.3
+=====================================
+Trace: 403.gcc.gz, Associativity: 32, Block Size: 512
+CPI_stall: 78
+miss_rate: 0.458
+AMAT: 82.50000000000001
+=====================================
+Trace: 403.gcc.gz, Associativity: 32, Block Size: 2048
+CPI_stall: 
+miss_rate: 
+AMAT: 
+=====================================
+Trace: 403.gcc.gz, Associativity: 32, Block Size: 4096
+CPI_stall: 
+miss_rate: 
+AMAT: 
+=====================================
+Trace: 403.gcc.gz, Associativity: 32, Block Size: 16384
+CPI_stall: 
+miss_rate: 
+AMAT: 
+=====================================
+Trace: 445.gobmk.gz, Associativity: 1, Block Size: 128
+CPI_stall: 124
+miss_rate: 0.748
+AMAT: 128.9
+=====================================
+Trace: 445.gobmk.gz, Associativity: 1, Block Size: 256
+CPI_stall: 99
+miss_rate: 0.592
+AMAT: 103.1
+=====================================
+Trace: 445.gobmk.gz, Associativity: 1, Block Size: 512
+CPI_stall: 82
+miss_rate: 0.475
+AMAT: 86.3
+=====================================
+Trace: 445.gobmk.gz, Associativity: 1, Block Size: 2048
+CPI_stall: 74
+miss_rate: 0.365
+AMAT: 78.0
+=====================================
+Trace: 445.gobmk.gz, Associativity: 1, Block Size: 4096
+CPI_stall: 72
+miss_rate: 0.359
+AMAT: 76.8
+=====================================
+Trace: 445.gobmk.gz, Associativity: 1, Block Size: 16384
+CPI_stall: 85
+miss_rate: 0.42
+AMAT: 89.0
+=====================================
+Trace: 445.gobmk.gz, Associativity: 4, Block Size: 128
+CPI_stall: 124
+miss_rate: 0.749
+AMAT: 128.8
+=====================================
+Trace: 445.gobmk.gz, Associativity: 4, Block Size: 256
+CPI_stall: 96
+miss_rate: 0.581
+AMAT: 100.39999999999999
+=====================================
+Trace: 445.gobmk.gz, Associativity: 4, Block Size: 512
+CPI_stall: 80
+miss_rate: 0.47
+AMAT: 84.89999999999999
+=====================================
+Trace: 445.gobmk.gz, Associativity: 4, Block Size: 2048
+CPI_stall: 67
+miss_rate: 0.333
+AMAT: 71.60000000000001
+=====================================
+Trace: 445.gobmk.gz, Associativity: 4, Block Size: 4096
+CPI_stall: 64
+miss_rate: 0.317
+AMAT: 68.4
+=====================================
+Trace: 445.gobmk.gz, Associativity: 4, Block Size: 16384
+CPI_stall: 
+miss_rate: 
+AMAT: 
+=====================================
+Trace: 445.gobmk.gz, Associativity: 8, Block Size: 128
+CPI_stall: 124
+miss_rate: 0.747
+AMAT: 128.5
+=====================================
+Trace: 445.gobmk.gz, Associativity: 8, Block Size: 256
+CPI_stall: 95
+miss_rate: 0.578
+AMAT: 99.9
+=====================================
+Trace: 445.gobmk.gz, Associativity: 8, Block Size: 512
+CPI_stall: 78
+miss_rate: 0.459
+AMAT: 82.9
+=====================================
+Trace: 445.gobmk.gz, Associativity: 8, Block Size: 2048
+CPI_stall: 67
+miss_rate: 0.33
+AMAT: 71.0
+=====================================
+Trace: 445.gobmk.gz, Associativity: 8, Block Size: 4096
+CPI_stall: 
+miss_rate: 
+AMAT: 
+=====================================
+Trace: 445.gobmk.gz, Associativity: 8, Block Size: 16384
+CPI_stall: 
+miss_rate: 
+AMAT: 
+=====================================
+Trace: 445.gobmk.gz, Associativity: 16, Block Size: 128
+CPI_stall: 124
+miss_rate: 0.746
+AMAT: 128.4
+=====================================
+Trace: 445.gobmk.gz, Associativity: 16, Block Size: 256
+CPI_stall: 95
+miss_rate: 0.577
+AMAT: 99.6
+=====================================
+Trace: 445.gobmk.gz, Associativity: 16, Block Size: 512
+CPI_stall: 78
+miss_rate: 0.458
+AMAT: 82.60000000000001
+=====================================
+Trace: 445.gobmk.gz, Associativity: 16, Block Size: 2048
+CPI_stall: 
+miss_rate: 
+AMAT: 
+=====================================
+Trace: 445.gobmk.gz, Associativity: 16, Block Size: 4096
+CPI_stall: 
+miss_rate: 
+AMAT: 
+=====================================
+Trace: 445.gobmk.gz, Associativity: 16, Block Size: 16384
+CPI_stall: 
+miss_rate: 
+AMAT: 
+=====================================
+Trace: 445.gobmk.gz, Associativity: 32, Block Size: 128
+CPI_stall: 124
+miss_rate: 0.746
+AMAT: 128.3
+=====================================
+Trace: 445.gobmk.gz, Associativity: 32, Block Size: 256
+CPI_stall: 95
+miss_rate: 0.575
+AMAT: 99.3
+=====================================
+Trace: 445.gobmk.gz, Associativity: 32, Block Size: 512
+CPI_stall: 78
+miss_rate: 0.458
+AMAT: 82.50000000000001
+=====================================
+Trace: 445.gobmk.gz, Associativity: 32, Block Size: 2048
+CPI_stall: 
+miss_rate: 
+AMAT: 
+=====================================
+Trace: 445.gobmk.gz, Associativity: 32, Block Size: 4096
+CPI_stall: 
+miss_rate: 
+AMAT: 
+=====================================
+Trace: 445.gobmk.gz, Associativity: 32, Block Size: 16384
+CPI_stall: 
+miss_rate: 
+AMAT: 
+=====================================
